@@ -9,8 +9,8 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: "Welth",
-  description: "One stop Finance Platform",
+  title: "AI-finance-Assistant",
+  description: "One stop AI Finance Platform",
 };
 
 export default function RootLayout({ children }) {
